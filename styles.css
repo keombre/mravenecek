@@ -1,0 +1,21 @@
+#content {
+    position: absolute;
+    width: calc(100% - 160px);
+    height: calc(100% - 160px);
+    background: #fffcf4;
+    left: 60px;
+    top: 60px;
+    padding: 25px;
+    font-family: monospace;
+    font-size: 2em;
+    overflow: hidden;
+}
+
+body, html {
+    height: 100%
+}
+
+body {
+    background-color: #54555e;
+    overflow: hidden;
+}
